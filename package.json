@@ -1,0 +1,39 @@
+{
+  "name": "imagemagick",
+  "version": "0.1.0",
+  "description": "imagemagick wrapper",
+  "main": "index.js",
+  "directories": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musubu/node-imagemagick.git"
+  },
+  "keywords": [
+    "imagemagick",
+    "image"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "author": {
+    "name": "Musubu Inc.",
+    "email": "dev@musubu.co.jp"
+  },
+  "scripts": {
+
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "engine": {
+    "node": ">=0.8.16"
+  }
+}
